@@ -1,11 +1,11 @@
 <?php
 /**
- * Plugin Name: Multi Language SEO System
- * Plugin URI: https://example.com/multi-seo
+ * Plugin Name: سئو پیشرفته چندزبانه
+ * Plugin URI: https://hosseinam.ir/multi-seo
  * Description: سیستم SEO چندزبانه با پشتیبانی از Polylang و افزونه‌های Yoast/Rank Math
  * Version: 1.0.0
- * Author: Your Name
- * Author URI: https://example.com
+ * Author: Hossein Azimy Birjandy
+ * Author URI: https://hosseinam.ir
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: multi-seo
