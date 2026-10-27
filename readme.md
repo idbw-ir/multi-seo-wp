@@ -302,21 +302,11 @@ GNU General Public License for more details.
 
 ## نویسندگان
 
-- **توسعه‌دهنده اصلی**: [نام شما]
-- **وب‌سایت**: [https://example.com](https://example.com)
+- **توسعه‌دهنده **: حسین عظیمی بیرجندی
+- **وب‌سایت**: [https://hosseinam.ir](https://hosseinam.ir)
 
 ---
 
-## تقدیر و تشکر
-
-با تشکر از:
-- تیم **WordPress**
-- تیم **Polylang**
-- تیم **Yoast SEO**
-- تیم **Rank Math**
-- همه مشارکت‌کنندگان
-
----
 
 <div align="center">
 
