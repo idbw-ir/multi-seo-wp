@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name: سئو پیشرفته چندزبانه
- * Plugin URI: https://hosseinam.ir/multi-seo
+ * Plugin URI: https://github.com/idbw-ir/multi-seo-wp
  * Description: سیستم SEO چندزبانه با پشتیبانی از Polylang و افزونه‌های Yoast/Rank Math
  * Version: 1.0.0
- * Author: Hossein Azimy Birjandy
+ * Author: حسین عظیمی بیرجندی
  * Author URI: https://hosseinam.ir
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
